@@ -1,0 +1,11 @@
+.section {
+  border: 1px solid black;
+  height: 1000px;
+  background-color: rgb(145, 141, 132);
+  color: white;
+  margin: 30px;
+}
+
+p {
+  padding: 20px;
+}
